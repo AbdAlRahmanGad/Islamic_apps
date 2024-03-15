@@ -2,6 +2,8 @@
 
 A curated list of Islamic apps, bots, websites, and shell scripts.
 
+[google drive folder](https://drive.google.com/drive/folders/1_sX61kekbx5yWY7sLJHFoI14A0sSaSQm?usp=sharing)
+
 Categories
 ----------
    
@@ -61,5 +63,5 @@ Categories
 
 - [ ] Make an Arabic readme
 - [X] Make a PDF from the readme for an easy share
-    - [ ] Make on Google Drive?
+    - [X] Make on Google Drive
 - [ ] Add a brief summary on every app.
